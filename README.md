@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 </div>
 
 ### Author highlights
-- **[micro{gl}](https://github.com/micro-gl/micro-gl)** - (Currently Private :() Realtime, Embeddable, Modular, Headers files Only **C++11** CPU vector graphics. No STD lib, no FPU and no GPU required !
-- **[micro{tess}](https://github.com/micro-gl/micro-tess)** - (Currently Private :() Fast, Slim, Embeddable, Allocator-aware, Headers files Only **C++11** Geometry Tessellation library for vector graphics, that can run on any 32/64 bits computer with or without FPU. No standard library required.
+- **[micro{gl}](https://github.com/micro-gl/micro-gl)** - (**Currently Private :(** ) Realtime, Embeddable, Modular, Headers files Only **C++11** CPU vector graphics. No STD lib, no FPU and no GPU required !
+- **[micro{tess}](https://github.com/micro-gl/micro-tess)** - (**Currently Private :(** ) Fast, Slim, Embeddable, Allocator-aware, Headers files Only **C++11** Geometry Tessellation library for vector graphics, that can run on any 32/64 bits computer with or without FPU. No standard library required.
 - **[micro{alloc}](https://github.com/micro-gl/micro-alloc)** - Fast, Slim, Embeddable, Headers files Only **C++11** Memory Allocation library. No std library used.
 - **[micro{containers}](https://github.com/micro-gl/micro-containers)** - Fast, Slim, Embeddable, Headers files Only **C++11** containers library. No std library used.
 - **[fontium](https://github.com/micro-gl/fontium)** - **CLI** and lib for creating **bitmap fonts**
