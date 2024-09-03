@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 </div>
 
 ### Author highlights
-- **[micro{gl}](https://github.com/micro-gl/micro-gl)** - Headers Only **C++11** CPU vector and raster canvas graphics. No STD lib, no FPU and no GPU required !
-- **[micro{tess}](https://github.com/micro-gl/micro-tess)** - Allocator-aware, Headers Only **C++11** Geometry Tessellation library for vector graphics, that can run on any 32/64 bits computer with or without FPU. No standard library required.
+- **[micro-gl](https://github.com/micro-gl/micro-gl)** - Headers Only **C++11** CPU vector and raster canvas graphics. No STD lib, no FPU and no GPU required !
+- **[micro-tess](https://github.com/micro-gl/micro-tess)** - Allocator-aware, Headers Only **C++11** Geometry Tessellation library for vector graphics, that can run on any 32/64 bits computer with or without FPU. No standard library required.
 - **[nitro{gl}](https://github.com/micro-gl/nitro-gl)** - Headers Only **C++11** OpenGL/ES Graphics. 
-- **[micro{alloc}](https://github.com/micro-gl/micro-alloc)** - Headers files Only **C++11** Memory Allocation library. No std library used.
-- **[micro{containers}](https://github.com/micro-gl/micro-containers)** - Headers files Only **C++11** containers library. No std library used.
+- **[micro-alloc](https://github.com/micro-gl/micro-alloc)** - Headers files Only **C++11** Memory Allocation library. No std library used.
+- **[micro-containers](https://github.com/micro-gl/micro-containers)** - Headers files Only **C++11** containers library. No std library used.
 - **[fontium](https://github.com/micro-gl/fontium)** - **CLI** and lib for creating **bitmap fonts**
 - **[imagium](https://github.com/micro-gl/imagium)** - **CLI** and lib for reshaping and packing pixels into rgba components exported as header files for static consuming
 - **[adobe-cep-react-create](https://github.com/HendrixString/adobe-cep-react-create)** - Create **Adobe-CEP** extension with **React.js**, **Material-UI**, Native Node modules, **Webpack**, **Babel** and **ExtendScript**
