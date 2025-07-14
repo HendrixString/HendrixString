@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 
 ### Author highlights
-- **[storecraft](https://github.com/store-craft/storecraft)** - Next Generation Ai Agentic Javascript Commerce Backend, that can run anywhere !
+- **[storecraft](https://github.com/store-craft/storecraft)** -  Rapidly build AI-powered, Headless e-commerce backends with TypeScript, that can run anywhere !
 - **[micro-gl](https://github.com/micro-gl/micro-gl)** - Headers Only **C++11** CPU vector and raster canvas graphics. No STD lib, no FPU and no GPU required !
 - **[micro-tess](https://github.com/micro-gl/micro-tess)** - Allocator-aware, Headers Only **C++11** Geometry Tessellation library for vector graphics, that can run on any 32/64 bits computer with or without FPU. No standard library required.
 - **[nitro-gl](https://github.com/micro-gl/nitro-gl)** - Headers Only **C++11** OpenGL/ES Graphics. 
