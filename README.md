@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HendrixString&count_private=true&show_icons=true&theme=synthwave)
-
-</div>
-
 ### Author highlights
 - **[storecraft](https://github.com/store-craft/storecraft)** -  Rapidly build AI-powered, Headless e-commerce backends with TypeScript, that can run anywhere !
 - **[micro-gl](https://github.com/micro-gl/micro-gl)** - Headers Only **C++11** CPU vector and raster canvas graphics. No STD lib, no FPU and no GPU required !
